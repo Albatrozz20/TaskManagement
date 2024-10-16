@@ -1,0 +1,41 @@
+body
+{
+    background: #E3E9FF;
+}
+.bg-purple
+{
+    background-color: #AA7AE4;
+}
+.bg-w
+{
+    background-color: #F7F7F7;
+}
+.text-purple
+{
+    color: #6c39aa;
+}
+.text-w
+{
+    color: #F7F7F7;
+}
+input
+{
+    outline: none;
+    border: none;
+}
+@media screen and (min-width: 0px) {
+
+    .icons
+    {
+        height: 1.5rem;
+    }
+    
+}
+@media screen and (min-width: 768px) {
+
+    .icons
+    {
+        height: 2.5rem;
+    }
+    
+}
